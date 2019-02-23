@@ -12,3 +12,6 @@ Standard FTDI or www.aprbrother.com 's Rev4 Programmer using esptool, NodeMCU Fl
   
 ## Bill of Materials  
 https://github.com/exploitagency/ESP-USB-Tool/blob/master/BOM  
+  
+## PCB Gerber File  
+https://github.com/exploitagency/ESP-USB-Tool/blob/master/GERBER.zip?raw=true  
