@@ -1,6 +1,6 @@
 # ESP-USB-Tool  
 Open Source Hardware using an ESP-12 with CNLohr's USB implementation.  
-Currently compatible with: https://github.com/cnlohr/espusb but expect a modified version to be released eventually.  
+Currently compatible with: https://github.com/cnlohr/espusb but expect additional software to be released eventually.  
 ![ESP-USB-Tool](https://raw.githubusercontent.com/exploitagency/ESP-USB-Tool/master/usb.png)  
   
 ## Hardware License  
